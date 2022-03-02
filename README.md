@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiyushYadav19
-- 👀 I’m interested in Python and Autmation
+- 👀 I’m interested in Python and Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and Net-DevOps
 - 📫 How to reach me mhugian@gmail.com
